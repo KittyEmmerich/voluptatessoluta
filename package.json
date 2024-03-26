@@ -1,0 +1,50 @@
+{
+  "name": "voluptatessoluta",
+  "version": "1.0.0",
+  "description": "Onecdot-SDK",
+  "main": "./dist/onecdot-auth.bundle.js",
+  "authors": [
+    {
+      "name": "Aman Mishra",
+      "email": "aman.onec@gmail.com",
+      "homepage": "https://github.com/Am-Coder"
+    },
+    {
+      "name": "Ujjwal Kumar",
+      "email": "ujjwal.onec@gmail.com",
+      "homepage": "https://github.com/Ujjwal0501"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KittyEmmerich/voluptatessoluta.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "omnis",
+    "harum",
+    "npm",
+    "magni",
+    "hic"
+  ],
+  "dependencies": {
+    "@walletconnect/client": "^1.7.1",
+    "@metamask/onboarding": "^1.0.1",
+    "@walletconnect/qrcode-modal": "^1.7.1",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^8.2.3",
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "author": "AustinGraham",
+  "bugs": {
+    "url": "https://github.com/KittyEmmerich/voluptatessoluta.git/issues"
+  }
+}
